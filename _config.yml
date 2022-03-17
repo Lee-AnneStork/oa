@@ -1,22 +1,26 @@
 ---
-workshop_id:
+workshop_id: UOBOA20220317LAS
 topic: open-access
 title: Open Access Workshop
-instructors: []
-instructor_emails: []
+instructors:
+  - Lee-Anne Stork
+instructor_emails:
+  - lee-anne.stork@oncology.ox.ac.uk
+  - lee-anne.stork@oncology.ox.ac.uk
+  - lee-anne.stork@oncology.ox.ac.uk
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: null
+address: MSD Business Development Group
+country: GB
+latitude: null
+longitude: null
+start_date: null
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
